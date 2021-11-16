@@ -2,6 +2,7 @@
 
 This is a simple website project for showing how to use Git and Github
 Adding additional description for example
+Added more changes to myfeature branch
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands using a web project
